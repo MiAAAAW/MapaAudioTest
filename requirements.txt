@@ -1,0 +1,8 @@
+Cython
+numpy
+#pkg-resources
+PyOpenGL
+PyQt5
+PyQt5-sip
+scipy
+triangle
